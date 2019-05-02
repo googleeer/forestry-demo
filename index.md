@@ -8,9 +8,6 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- heading: True Score
-  description: An additional scoring
-  icon: "/uploads/2017/11/13/CNODES-logo-lg.jpg"
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
@@ -19,6 +16,9 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
+- heading: True Score
+  description: An additional scoring
+  icon: "/uploads/2017/11/13/CNODES-logo-lg.jpg"
 sub_heading: Engineering and Health Sciences
 textline: |
   Belkirk College of Engineering
