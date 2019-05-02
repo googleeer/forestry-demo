@@ -9,12 +9,6 @@ fields:
   default: ''
   config:
     required: true
-- type: file
-  name: banner_image
-  label: Hero Image
-  description: 'Dimensions: 1200px by 580px'
-  config:
-    maxSize: '2'
 - type: text
   label: Hero Heading
   name: heading
@@ -33,6 +27,12 @@ fields:
   - type: text
     name: href
     label: Link
+- type: file
+  name: banner_image
+  label: Hero Image
+  description: 'Dimensions: 1200px by 580px'
+  config:
+    maxSize: '2'
 - type: textarea
   name: textline
   label: Description
